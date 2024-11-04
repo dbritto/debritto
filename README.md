@@ -40,8 +40,8 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debritto&layout=compact&hide=html" alt="debritto" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debrito&layout=compact&hide=html" alt="debritto" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debritto&show_icons=true" alt="debritto" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debrito&show_icons=true" alt="debritto" /></p>
 
 
